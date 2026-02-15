@@ -1,0 +1,223 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                  SUBMISSION CHECKLIST                                ║
+║          Print this and check off as you complete each step          ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+PHASE 1: GITHUB REPOSITORY UPLOAD
+═══════════════════════════════════════════════════════════════════════
+
+□ 1.1 Created GitHub account (if needed)
+□ 1.2 Created new public repository: obesity-classification-ml
+□ 1.3 Uploaded app.py
+□ 1.4 Uploaded obesity_classification.py
+□ 1.5 Uploaded requirements.txt
+□ 1.6 Uploaded README.md
+□ 1.7 Uploaded ObesityDataSet_raw_and_data_sinthetic.csv
+□ 1.8 Uploaded classification_results.csv
+□ 1.9 Uploaded model_comparison.png
+□ 1.10 Created model/ directory in repository
+□ 1.11 Uploaded all 7 .pkl files to model/ directory:
+     □ decision_tree.pkl
+     □ k-nearest_neighbors.pkl
+     □ label_encoder.pkl
+     □ logistic_regression.pkl
+     □ naive_bayes.pkl
+     □ random_forest.pkl
+     □ scaler.pkl
+□ 1.12 Verified README.md displays correctly on GitHub
+□ 1.13 Confirmed repository is PUBLIC
+□ 1.14 Tested repository URL in incognito mode
+
+✓ GitHub Repository URL: ________________________________________
+
+
+PHASE 2: STREAMLIT CLOUD DEPLOYMENT
+═══════════════════════════════════════════════════════════════════════
+
+□ 2.1 Signed up/logged in to Streamlit Community Cloud
+□ 2.2 Connected GitHub account to Streamlit
+□ 2.3 Clicked "New app" on Streamlit dashboard
+□ 2.4 Selected correct repository from dropdown
+□ 2.5 Set main file path as: app.py
+□ 2.6 Set Python version to 3.10 or 3.11
+□ 2.7 Clicked "Deploy" button
+□ 2.8 Waited for deployment (2-5 minutes)
+□ 2.9 Deployment successful - app is live
+□ 2.10 Tested app URL - opens correctly
+□ 2.11 Verified HOME page loads
+□ 2.12 Verified DATASET OVERVIEW page loads
+□ 2.13 Verified MODEL COMPARISON page loads
+□ 2.14 Verified MAKE PREDICTION page loads
+□ 2.15 Verified ANALYSIS page loads
+□ 2.16 Tested prediction feature (input data and get result)
+□ 2.17 Tested app URL in incognito mode
+□ 2.18 Confirmed no errors in deployment logs
+
+✓ Live Streamlit App URL: ________________________________________
+
+
+PHASE 3: BITS VIRTUAL LAB SCREENSHOT
+═══════════════════════════════════════════════════════════════════════
+
+□ 3.1 Logged into BITS Virtual Lab
+□ 3.2 Uploaded project files OR navigated to project directory
+□ 3.3 Ran: python3 obesity_classification.py
+□ 3.4 Verified successful execution (all models trained)
+□ 3.5 Ran: ls -lh model/ classification_results.csv model_comparison.png
+□ 3.6 Verified generated files are created
+□ 3.7 Took screenshot showing:
+     □ BITS Virtual Lab interface visible
+     □ Terminal with commands
+     □ Successful execution output
+     □ Model comparison results
+     □ Generated files listing
+     □ Timestamp/username visible (if possible)
+□ 3.8 Saved screenshot as: BITS_VirtualLab_Screenshot.png
+□ 3.9 Verified screenshot is clear and readable
+□ 3.10 Confirmed file size is reasonable (< 5MB)
+
+✓ Screenshot saved at: ________________________________________
+
+
+PHASE 4: PDF DOCUMENT CREATION
+═══════════════════════════════════════════════════════════════════════
+
+□ 4.1 Created new document (Word/Google Docs/LaTeX)
+□ 4.2 Added cover page with:
+     □ Assignment title: "Machine Learning - Assignment 2"
+     □ Project name: "Obesity Level Classification"
+     □ Your name
+     □ Your student ID
+     □ Course: M.Tech AI ML/DSE
+
+□ 4.3 Added "Links" page with:
+     □ Section 1: GitHub Repository Link (CLICKABLE)
+     □ Section 2: Live Streamlit App Link (CLICKABLE)
+     □ Listed repository contents
+
+□ 4.4 Added "BITS Virtual Lab Screenshot" page:
+     □ Inserted full-page screenshot
+     □ Screenshot is clear and readable
+
+□ 4.5 Added README.md content (copy-paste from README.md):
+     □ Problem Statement section
+     □ Dataset Description section (with complete feature table)
+     □ Models Used section
+     □ **Model Comparison Table with ACTUAL RESULTS**
+     □ Observations section (all 10 insights)
+     □ How to Run section
+     □ Project Structure section
+     □ All other sections
+
+□ 4.6 Formatting checks:
+     □ Font: Arial/Times New Roman 11-12pt
+     □ Line spacing: 1.15 or 1.5
+     □ Margins: 1 inch all sides
+     □ Links are clickable/hyperlinked
+     □ Tables are properly formatted
+     □ Code blocks use monospace font
+     □ Page numbers added
+     □ Headers/footers appropriate
+
+□ 4.7 Content verification:
+     □ GitHub link is CORRECT and CLICKABLE
+     □ Streamlit link is CORRECT and CLICKABLE
+     □ Screenshot is CLEAR and shows BITS VL
+     □ Comparison table shows ACTUAL results (95.27% etc.)
+     □ All 6 models listed in table
+     □ All 6 metrics listed in table
+     □ Observations are detailed
+     □ Total pages: 15-25 pages
+
+□ 4.8 Saved document as PDF:
+     □ Filename: ML_Assignment2_[YourName]_[YourID].pdf
+     □ File size: < 10MB
+     □ All links work in PDF (tested)
+     □ All images display correctly
+
+✓ PDF saved at: ________________________________________
+
+
+PHASE 5: FINAL VERIFICATION
+═══════════════════════════════════════════════════════════════════════
+
+□ 5.1 Opened PDF in new viewer/device
+□ 5.2 Clicked GitHub link in PDF - works correctly
+□ 5.3 Clicked Streamlit link in PDF - works correctly
+□ 5.4 Verified GitHub repository is PUBLIC
+□ 5.5 Verified Streamlit app is LIVE and accessible
+□ 5.6 Screenshot displays clearly in PDF
+□ 5.7 All text is readable
+□ 5.8 Comparison table shows actual numerical results
+□ 5.9 PDF file size is acceptable
+□ 5.10 Filename follows convention
+
+□ 5.11 TRIPLE-CHECKED EVERYTHING:
+     □ Links work
+     □ App is live
+     □ Repository is public
+     □ Results are actual (not placeholder)
+     □ Screenshot is authentic
+
+
+PHASE 6: SUBMISSION
+═══════════════════════════════════════════════════════════════════════
+
+□ 6.1 Logged into Taxila (BITS student portal)
+□ 6.2 Navigated to ML course
+□ 6.3 Found Assignment 2 submission link
+□ 6.4 Read submission instructions one more time
+□ 6.5 Attached PDF file
+□ 6.6 Verified correct file is attached
+□ 6.7 Double-checked file size and format
+□ 6.8 Reviewed submission before final submit
+
+⚠️  FINAL CHECK BEFORE CLICKING SUBMIT:
+□ GitHub link works (tested in incognito)
+□ Streamlit link works (tested in incognito)
+□ Screenshot is from BITS Virtual Lab
+□ README content complete in PDF
+□ Only ONE submission allowed - ready to submit?
+
+□ 6.9 Clicked "SUBMIT"
+□ 6.10 Received submission confirmation
+□ 6.11 Saved confirmation email/screenshot
+
+✓ Submission Date/Time: ________________________________________
+✓ Confirmation Number: ________________________________________
+
+
+═══════════════════════════════════════════════════════════════════════
+
+EMERGENCY CONTACTS / NOTES:
+═══════════════════════════════════════════════════════════════════════
+
+GitHub Username: ________________________________________
+
+Streamlit Account Email: ________________________________________
+
+GitHub Repo Name: obesity-classification-ml
+
+Streamlit App Name: ________________________________________
+
+Notes:
+_________________________________________________________________
+
+_________________________________________________________________
+
+_________________________________________________________________
+
+
+═══════════════════════════════════════════════════════════════════════
+                        GOOD LUCK! 🚀
+═══════════════════════════════════════════════════════════════════════
+
+Remember:
+• Only ONE submission accepted - no resubmission
+• Test all links before submitting
+• Ensure repository is PUBLIC
+• Ensure Streamlit app is LIVE
+• Screenshot must be from BITS Virtual Lab
+
+Your project is excellent - 95.27% accuracy with Random Forest!
+Follow this checklist carefully and you'll get full marks! ⭐⭐⭐⭐⭐
